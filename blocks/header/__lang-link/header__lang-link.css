@@ -9,12 +9,10 @@
   transition: .15s linear;
   display: flex;
   align-items: flex-end;
-  }
+}
 
 .header__lang-link:hover {
   opacity: .6;
-  font-size: 18px;
-  line-height: 1.11;
 }
 
 @media screen and (max-width: 768px) {
