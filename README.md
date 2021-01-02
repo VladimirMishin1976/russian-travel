@@ -14,4 +14,4 @@
 Работа с github.
 
 ## Ссылка
-https://github.com/VladimirMishin1976/russian-travel-1.git
+https://vladimirmishin1976.github.io/russian-travel/
