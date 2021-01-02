@@ -1,0 +1,47 @@
+@keyframes blackout {
+  from {
+    opacity: .3;
+  }
+  to {
+    opacity: .8;
+  }
+}
+
+@keyframes outblackout {
+  from {
+    opacity: .8;
+  }
+  to {
+    opacity: .3;
+  }
+}
+
+.cover__text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.cover__text::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgb(42, 44, 47);
+  z-index: -1;
+  opacity: .3;
+  animation: outblackout .2s linear forwards;
+}
+
+.cover__text:hover::before {
+  animation: blackout .3s linear forwards;
+}
