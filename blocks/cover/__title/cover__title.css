@@ -13,7 +13,7 @@
   .cover__title {
     line-height: 1.09;
     font-size: calc(8.93vw + 3.4px);
-    width: 90% ;
+    width: 90%;
     padding-bottom: calc(3.57% + 4.6px);
   }
 }
