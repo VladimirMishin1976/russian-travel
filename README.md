@@ -16,5 +16,5 @@
 Работа с GitHub.
 
 ## Ссылки
-https://vladimirmishin1976.github.io/russian-travel/
-https://russian-travel1-r7watoyf1-vladimirmishin1976.vercel.app/
+* https://vladimirmishin1976.github.io/russian-travel/
+* https://russian-travel1-r7watoyf1-vladimirmishin1976.vercel.app/
