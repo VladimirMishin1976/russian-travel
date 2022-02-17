@@ -13,7 +13,8 @@
 ## Дополнительно
 Работа с макетом в Figma.
 Использвание PerfectPixel.
-Работа с github.
+Работа с GitHub.
 
-## Ссылка
+## Ссылки
 https://vladimirmishin1976.github.io/russian-travel/
+https://russian-travel1-r7watoyf1-vladimirmishin1976.vercel.app/
